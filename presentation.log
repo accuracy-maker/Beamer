@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  6 MAR 2023 18:24
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  6 MAR 2023 18:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1025,7 +1025,7 @@ Overfull \hbox (17.0716pt too wide) in paragraph at lines 164--164
 
 Missing character: There is no 2 ("32) in font nullfont!
 
-Overfull \vbox (50.21674pt too high) detected at line 164
+Overfull \vbox (43.72324pt too high) detected at line 164
  []
 
 Missing character: There is no 2 ("32) in font nullfont!
@@ -1041,74 +1041,8 @@ Missing character: There is no 2 ("32) in font nullfont!
 [11
 
 ]
-File: figures//模型架构.png Graphic file (type bmp)
-<figures//模型架构.png>
-
-Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 2 ("32) in font nullfont!
 [12
-
-]
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 3 ("33) in font nullfont!
-File: figures//维度变换.png Graphic file (type bmp)
-<figures//维度变换.png>
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-[13
-
-]
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 8 ("38) in font nullfont!
-File: figures//Conv1d.png Graphic file (type bmp)
-<figures//Conv1d.png>
-Missing character: There is no 2 ("32) in font nullfont!
-
-Overfull \vbox (13.48703pt too high) detected at line 241
- []
-
-Missing character: There is no 2 ("32) in font nullfont!
-[14
-
-]
-Missing character: There is no 3 ("33) in font nullfont!
-Missing character: There is no 3 ("33) in font nullfont!
-File: lstm.pdf Graphic file (type pdf)
-<use lstm.pdf>
-
-Overfull \hbox (4.55623pt too wide) detected at line 269
-[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
- []
-
-Missing character: There is no 2 ("32) in font nullfont!
-
-Overfull \vbox (14.75803pt too high) detected at line 269
- []
-
-Missing character: There is no 2 ("32) in font nullfont!
-[15
-
-]
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-[16
-
-] (./presentation.toc)
-Missing character: There is no 2 ("32) in font nullfont!
-[17
-
-]
-Missing character: There is no 2 ("32) in font nullfont!
-
-Overfull \vbox (3.50761pt too high) detected at line 315
- []
-
-Missing character: There is no 2 ("32) in font nullfont!
-[18
-
-]
-Missing character: There is no 2 ("32) in font nullfont!
-[19
 
 ]
 \tf@nav=\write6
@@ -1122,15 +1056,15 @@ Missing character: There is no 2 ("32) in font nullfont!
 
  (./presentation.aux)
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 97259D61D9D68616684929B289FADB2F;1715.
+(rerunfilecheck)             Checksum: 9C902F5631BF7783CF6E8DD567337146;1527.
  ) 
 Here is how much of TeX's memory you used:
- 28699 strings out of 476179
- 634956 string characters out of 5809545
- 953821 words of memory out of 5000000
- 48822 multiletter control sequences out of 15000+600000
- 476165 words of font info for 81 fonts, out of 8000000 for 9000
+ 28554 strings out of 476179
+ 631675 string characters out of 5809545
+ 951632 words of memory out of 5000000
+ 48686 multiletter control sequences out of 15000+600000
+ 476157 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  142i,19n,136p,494b,820s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on presentation.pdf (19 pages).
+Output written on presentation.pdf (12 pages).
