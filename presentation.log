@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  6 MAR 2023 18:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  6 MAR 2023 21:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -994,20 +994,20 @@ Missing character: There is no 2 ("32) in font nullfont!
 [7
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 138.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 137.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 138.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 137.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 138.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 137.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 138.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 137.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 138.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 137.
 
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 2 ("32) in font nullfont!
@@ -1019,13 +1019,13 @@ Missing character: There is no 8 ("38) in font nullfont!
 File: LSTM.pdf Graphic file (type pdf)
 <use LSTM.pdf>
 
-Overfull \hbox (17.0716pt too wide) in paragraph at lines 164--164
+Overfull \hbox (17.0716pt too wide) in paragraph at lines 163--163
  [] 
  []
 
 Missing character: There is no 2 ("32) in font nullfont!
 
-Overfull \vbox (43.72324pt too high) detected at line 164
+Overfull \vbox (43.72324pt too high) detected at line 163
  []
 
 Missing character: There is no 2 ("32) in font nullfont!
@@ -1056,14 +1056,14 @@ Missing character: There is no 2 ("32) in font nullfont!
 
  (./presentation.aux)
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 9C902F5631BF7783CF6E8DD567337146;1527.
+(rerunfilecheck)             Checksum: CD89BF36C8425B34C376F1F28DE9DBDA;1366.
  ) 
 Here is how much of TeX's memory you used:
- 28554 strings out of 476179
- 631675 string characters out of 5809545
- 951632 words of memory out of 5000000
- 48686 multiletter control sequences out of 15000+600000
- 476157 words of font info for 80 fonts, out of 8000000 for 9000
+ 28529 strings out of 476179
+ 630087 string characters out of 5809545
+ 951225 words of memory out of 5000000
+ 48662 multiletter control sequences out of 15000+600000
+ 476149 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  142i,19n,136p,494b,820s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
